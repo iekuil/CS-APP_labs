@@ -1,0 +1,24 @@
+[submodule "CS-APP_datalab"]
+	path = CS-APP_datalab
+	url = git@github.com:iekuil/CS-APP_datalab.git
+[submodule "CS-APP_bomblab"]
+	path = CS-APP_bomblab
+	url = git@github.com:iekuil/CS-APP_bomblab.git
+[submodule "CS-APP_attacklab"]
+	path = CS-APP_attacklab
+	url = git@github.com:iekuil/CS-APP_attacklab.git
+[submodule "CS-APP_archlab"]
+	path = CS-APP_archlab
+	url = git@github.com:iekuil/CS-APP_archlab.git
+[submodule "CS-APP_cachelab"]
+	path = CS-APP_cachelab
+	url = git@github.com:iekuil/CS-APP_cachelab.git
+[submodule "CS-APP_shlab"]
+	path = CS-APP_shlab
+	url = git@github.com:iekuil/CS-APP_shlab.git
+[submodule "CS-APP_malloclab"]
+	path = CS-APP_malloclab
+	url = git@github.com:iekuil/CS-APP_malloclab.git
+[submodule "CS-APP_proxylab"]
+	path = CS-APP_proxylab
+	url = git@github.com:iekuil/CS-APP_proxylab.git
